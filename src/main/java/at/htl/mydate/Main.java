@@ -8,7 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // not yet implemented
-
+        MyDate date = new MyDate();
     }
 }
